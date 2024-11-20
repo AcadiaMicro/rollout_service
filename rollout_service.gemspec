@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
   end
   spec.require_paths = ["lib"]
 
-  spec.add_dependency 'grape', '~> 1'
+  spec.add_dependency 'grape', '~> 2'
   spec.add_dependency 'grape-entity', '~> 0.5'
   spec.add_dependency 'rollout', '~> 2.4'
   spec.add_dependency 'require_all', '~> 2'
